@@ -1,0 +1,75 @@
+# =========================
+# Python
+# =========================
+
+# Archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Extensiones compiladas
+*.so
+
+# Distribución y empaquetado
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+
+# Instaladores
+pip-wheel-metadata/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Variables de entorno
+.env
+.env.*
+*.env
+
+# Herramientas de pruebas
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.pyre/
+.ruff_cache/
+.pytype/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# =========================
+# macOS
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
